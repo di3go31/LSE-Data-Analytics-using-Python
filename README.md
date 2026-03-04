@@ -4,8 +4,7 @@
 
 - [Python notebook](Python_analysis/JimenezLopez_DiegoEnrique_DA201_Assignment_Notebook.ipynb)
 - [Full analysis with outputs](Python_analysis/JimenezLopez_DiegoEnrique_DA201_Assignment_Notebook.pdf)
-- [Technical report]
-(Technical_project/JimenezLopez_DiegoEnrique_LSEDA201_technical_report.pdf)
+- [Technical report](Technical_project/JimenezLopez_DiegoEnrique_LSEDA201_technical_report.pdf)
 
 Python Data Analysis project as part of the LSE Data Analytics using Python. 
 
